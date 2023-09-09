@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1633419375 source:c:\users\gustavo rodrigues\onedrive\documentos\programas c\simpletron 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<dirent.h>
+
+1633294986 source:c:\users\gustavo rodrigues\downloads\7.28 (3).c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<dirent.h>
+
